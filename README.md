@@ -1,1 +1,1 @@
-# Dolphin-ControllerSetup Images
+# Dolphin - Controller Setup Images
